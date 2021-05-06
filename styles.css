@@ -24,7 +24,7 @@ h2 {
 }
 #chair {
   float: right;
-  padding-right: 170px;
+  margin-right: 170px;
 }
 
 img {
