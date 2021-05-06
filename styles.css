@@ -26,3 +26,7 @@ h2 {
   float: right;
   padding-right: 170px;
 }
+
+img {
+  border-radius: 10%;
+}
